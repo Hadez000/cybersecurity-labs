@@ -8,7 +8,7 @@ Build practical cybersecurity skills through hands-on labs, documenting what I l
 
 ## 📚 Labs
 
-- Day 01 — [Coming soon]
+- [Day 01](https://github.com/Hadez000/cybersecurity-labs/tree/main/Day-01)
 
 ## 🛠️ Areas
 
